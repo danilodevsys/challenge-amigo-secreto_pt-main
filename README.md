@@ -17,7 +17,7 @@ Este projeto é uma aplicação web que permite a usuários inserir nomes de ami
 ## Tecnologias utilizadas
 - HTML
 - CSS
-- JavaScript
+- JavaScript (By Danilodevsys)
 
 ## Como usar
 1. Adicione os nomes dos amigos no campo de texto.
