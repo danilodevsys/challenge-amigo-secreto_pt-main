@@ -1,3 +1,16 @@
+/*
+  Projeto: Nome do Projeto
+  Autor: Danilo Cândido da Silva
+  E-mail: danilodevsys@gmail.com
+  Data de criação: 11/08/2025
+  Descrição: Arquivo CSS Oracle One Next Education - G9
+
+  ------------------------------------------------------------
+  Este arquivo foi criado por Danilo Cândido da Silva.
+  Uso, cópia ou distribuição sem autorização não é permitido.
+*/
+
+
 :root {
     --color-primary: #4B69FD;
     --color-secondary: #FFF9EB;
@@ -8,7 +21,7 @@
     --color-white: #FFFFFF;
 }
 
-/* Reset e estilos gerais */
+
 * {
     margin: 0;
     padding: 0;
@@ -30,7 +43,7 @@ body {
     width: 100%;
 }
 
-/* Banner */
+
 .header-banner {
     flex: 40%;
     display: flex;
@@ -44,7 +57,7 @@ body {
     height: auto;
 }
 
-/* Seção de entrada */
+
 .input-section {
     flex: 60%;
     background-color: var(--color-secondary);
@@ -57,7 +70,7 @@ body {
     width: 100%;
 }
 
-/* Títulos */
+
 .main-title {
     font-size: 2.5rem;
     font-family: "Merriweather", serif;
@@ -75,7 +88,7 @@ body {
     text-align: center;
 }
 
-/* Campos de entrada */
+
 .input-wrapper {
     display: flex;
     justify-content: center;
@@ -101,7 +114,7 @@ body {
     margin-top: 20px;
 }
 
-/* Botões */
+
 button {
     padding: 15px 30px;
     font-size: 16px;
@@ -121,7 +134,7 @@ button {
     background-color: #a1a1a1;
 }
 
-/* Listas */
+
 ul {
     list-style-type: none;
     color: var(--color-text);
@@ -137,7 +150,7 @@ ul {
     text-align: center;
 }
 
-/* Botão de sortear */
+
 .button-draw {
     display: flex;
     align-items: center;
@@ -155,7 +168,7 @@ ul {
     background-color: var(--color-button-hover);
 }
 
-/* Rodapé */
+
 footer {
     width: 100%;
     background-color: var(--color-primary);
@@ -174,7 +187,7 @@ footer a:hover {
     text-decoration: underline;
 }
 
-/* Responsividade */
+
 @media (max-width: 600px) {
     .main-title {
         font-size: 2rem;

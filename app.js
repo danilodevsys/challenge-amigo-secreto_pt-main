@@ -1,3 +1,14 @@
+/*
+  Projeto: Nome do Projeto
+  Autor: Danilo Cândido da Silva
+  E-mail: danilodevsys@gmail.com
+  Data de criação: 11/08/2025
+  Descrição: Arquivo JavaScript Oracle One Next Education - G9
+
+  ------------------------------------------------------------
+  Este arquivo foi criado por Danilo Cândido da Silva.
+  Uso, cópia ou distribuição sem autorização não é permitido.
+*/
 
 let amigos = [];
 let sorteados = [];
