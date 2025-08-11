@@ -43,4 +43,13 @@ Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Bast
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+  Projeto: Nome do Projeto
+  Autor: Danilo Cândido da Silva
+  E-mail: danilodevsys@gmail.com
+  Data de criação: 11/08/2025
+  Descrição: Oracle One Next Education - G9
+
+  ------------------------------------------------------------
+  Este arquivo foi criado por Danilo Cândido da Silva.
+  Uso, cópia ou distribuição sem autorização não é permitido.
 
