@@ -8,7 +8,7 @@
     --color-white: #FFFFFF;
 }
 
-/* Estilos gerais */
+/* Reset e estilos gerais */
 * {
     margin: 0;
     padding: 0;
@@ -75,7 +75,7 @@ body {
     text-align: center;
 }
 
-/* Contêineres de entrada e botão */
+/* Campos de entrada */
 .input-wrapper {
     display: flex;
     justify-content: center;
@@ -101,7 +101,7 @@ body {
     margin-top: 20px;
 }
 
-/* Estilos de botão */
+/* Botões */
 button {
     padding: 15px 30px;
     font-size: 16px;
@@ -137,7 +137,7 @@ ul {
     text-align: center;
 }
 
-/* Botão de sortear título */
+/* Botão de sortear */
 .button-draw {
     display: flex;
     align-items: center;
